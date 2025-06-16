@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { motion } from 'framer-motion';
 import CircularTestimonials from './ui/circular-testimonials';
 import { 
